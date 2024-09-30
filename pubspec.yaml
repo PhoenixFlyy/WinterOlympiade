@@ -16,7 +16,7 @@ dependencies:
   firebase_core: ^3.5.0
   flutter_launcher_icons: ^0.14.0
   intl: ^0.19.0
-  confetti: ^0.7.0
+  confetti: ^0.8.0
   image_picker: ^1.1.2
   path_provider: ^2.1.4
   animated_flip_counter: ^0.3.4
