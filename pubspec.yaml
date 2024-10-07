@@ -29,7 +29,7 @@ dependencies:
   infinite_carousel: ^1.1.1
   shimmer: ^3.0.0
   wakelock_plus: ^1.2.8
-  just_audio: ^0.9.40
+  just_audio: ^0.9.41
   audio_service: ^0.18.15
   animations: ^2.0.11
 
